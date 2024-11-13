@@ -29,7 +29,7 @@ Me chamo Vinicius Galdino Melo, tenho 21 anos e sou natural de João Pessoa - PB
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="java.webp" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -69,5 +69,5 @@ Me chamo Vinicius Galdino Melo, tenho 21 anos e sou natural de João Pessoa - PB
     title="PostgreSql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="postgresql.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
