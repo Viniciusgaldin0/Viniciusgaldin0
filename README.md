@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vinicius Galdino Melo, tenho 21 anos e sou natural de João Pessoa - PB. Concluí o ensino médio no SESC DOM ULRICO. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio e faço Projetos com HTML, Css, Sass, JavaScript, Java, postgresql, Bootstrap 5, Git e Github. Estou em transição de carreira e sou apaixonado por tecnologia, penso muito em meu futuro e procuro sempre aprimorar minhas habilidades e conhecimentos. Na Universidade, com cursos e Projetos pessoais, busco sempre crescimento em relação a minha vida Profissional e Pessoal.
+Me chamo Vinicius Galdino Melo, tenho 21 anos e sou natural de João Pessoa - PB. Concluí o ensino médio no SESC DOM ULRICO. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio e faço Projetos com HTML, Css, Sass, JavaScript, Node.js, Java, Spring, postgresql, Bootstrap 5, Git e Github. Estou em transição de carreira e sou apaixonado por tecnologia, penso muito em meu futuro e procuro sempre aprimorar minhas habilidades e conhecimentos. Na Universidade, com cursos e Projetos pessoais, busco sempre crescimento em relação a minha vida Profissional e Pessoal.
 
 ---
 
